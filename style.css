@@ -1,0 +1,43 @@
+#containerHeader {
+  background-color: lightblue;
+}
+#topHeader {
+  background-color: lightblue;
+
+}
+#topHeader2 {
+  background-color: lightblue;
+
+}
+#headerFormWording p {
+  display: inline;
+}
+#headerForm {
+  display: inline;
+}
+
+
+
+#bodyContainer {
+  background-color: lightgrey;
+  clear:both;
+}
+#body1 {
+  background-color: lightgrey;
+  float: left;
+}
+#body2 {
+  background-color: lightgrey;
+  float: right;
+}
+
+
+
+
+#footerContainer {
+  background-color: white;
+}
+#footer1 {
+  background-color: white;
+  clear:both;
+}
