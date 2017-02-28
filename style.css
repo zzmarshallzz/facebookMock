@@ -1,13 +1,15 @@
 #containerHeader {
-  background-color: lightblue;
+  background-color: #3b5998;
 }
 #topHeader {
-  background-color: lightblue;
-
+  background-color: #3b5998;
+  color: white;
+  float: left;
 }
 #topHeader2 {
-  background-color: lightblue;
-
+  background-color: #3b5998;
+  color:white;
+  float: right;
 }
 #headerFormWording p {
   display: inline;
@@ -19,18 +21,20 @@
 
 
 #bodyContainer {
-  background-color: lightgrey;
+  background-color: #E8E8EE;
   clear:both;
 }
 #body1 {
-  background-color: lightgrey;
+  background-color: #E8E8EE;
   float: left;
 }
 #body2 {
-  background-color: lightgrey;
+  background-color: #E8E8EE;
   float: right;
 }
-
+#bodyFormDropdown {
+  display: inline;
+}
 
 
 
@@ -40,4 +44,5 @@
 #footer1 {
   background-color: white;
   clear:both;
+  font-size: small;
 }
