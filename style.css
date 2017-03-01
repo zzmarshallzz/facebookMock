@@ -1,6 +1,9 @@
 #containerHeader {
   background-color: #3b5998;
 }
+#containerHeader2 {
+  background-color: #3b5998;
+}
 #topHeader {
   background-color: #3b5998;
   color: white;
@@ -11,11 +14,11 @@
   color:white;
   float: right;
 }
-#headerFormWording p {
-  display: inline;
+#headerFormUserName {
+  float:left;
 }
-#headerForm {
-  display: inline;
+#headerFormPassword {
+  float:left;
 }
 
 
@@ -33,7 +36,10 @@
   float: right;
 }
 #bodyFormDropdown {
-  display: inline;
+  float: left;
+}
+#linkBirthday {
+float: left;
 }
 
 
